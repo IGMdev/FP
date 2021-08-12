@@ -1,0 +1,40 @@
+body {
+    margin:0px;
+    text-align : center;
+    
+ 
+    
+}
+
+h1  {
+    margin:0 auto;
+    font-family: 'Sacramento', cursive;
+}
+.web-developer {
+    font-family: 'Abel', sans-serif;
+}
+
+.top-container {
+    background-color: cadetblue;
+    position: relative;
+    padding-top: 100px;
+}
+
+.top-cloud {
+    position: absolute;
+    top: 50px;
+    right: 800px;
+}
+
+
+
+
+    
+
+
+.bottom-cloud {
+     position: absolute;
+   
+    
+ }
+
